@@ -9,11 +9,11 @@ https://www.youtube.com/watch?v=7DVdVGm7Ht8
 * [X] 1:57:16 Implementing the React Avatar Library
 * [X] 2:02:17 Building the Chat GPT-4 Suggestion Box in the Header Component
 * [X] 2:05:44 Building the Header Component (2/2)
-* [-] 2:10:59 Implementing React Beautiful DnD Library
-* [-] 2:16:31 Implementing Appwrite Cloud
-* [-] 2:28:34 Implementing Zustand
-* [] 2:41:51 Building the Board Component (1/2)
-* [] 2:42:46 Implementing To-Do Data
+* [X] 2:10:59 Implementing React Beautiful DnD Library
+* [X] 2:16:31 Implementing Appwrite Cloud
+* [X] 2:28:34 Implementing Zustand
+* [X] 2:41:51 Building the Board Component (1/2)
+* [X] 2:42:46 Implementing To-Do Data
 * [] 2:56:16 Sorting Columns by Column Types
 * [] 2:59:26 Building the Board Component (2/2)
 * [] 3:05:48 Building the Column Component
